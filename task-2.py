@@ -9,5 +9,3 @@ sum = 0
 for digit in num_str:
     sum += int(digit)
 print("Сумма цифр = ", sum)
-
-
